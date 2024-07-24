@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Arial', sans-serif;
+    background-image: url("../chale2.gif");
+    background-size: cover; /* faz a imagem cobrir todo o elemento */
+    background-repeat: no-repeat; /* impede a repetição da imagem */
+    background-position: center; /* posiciona a imagem no centro do elemento */
+  
+  }
+  #nao {
+    transition: all 0.5s ease;
+  }
+  #sim, #nao {
+    width: 120px; 
+    height: 40px; 
+    font-size: 20px; 
+    margin: 10px; 
+    cursor: pointer; 
+  }
+  
+  h1{
+    color:white;
+  }
+  
+  button{
+    background-color: red;
+    color: white;
+  }
