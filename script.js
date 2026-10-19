@@ -1,5 +1,5 @@
 document.getElementById('sim').onclick = function() {
-    window.location.href = 'https://www.youtube.com/watch?v=-VEUWrmVsQ4'; 
+    window.location.href = 'https://www.youtube.com/watch?v=GckmpZoqy6g'; 
   };
   document.getElementById('nao').onmouseover = function() {
     var naoBtn = document.getElementById('nao');
