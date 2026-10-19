@@ -3,7 +3,7 @@ body {
     padding-top: 100px;
     margin-top: 20px;
     font-family: 'Arial', sans-serif;
-    background-image: url("../abcde.jpg");
+    background-image: url("../abcd.png");
     background-size: cover; /* faz a imagem cobrir todo o elemento */
     background-repeat: no-repeat; /* impede a repetição da imagem */
     background-position: center; /* posiciona a imagem no centro do elemento */
