@@ -1,9 +1,10 @@
 body {
     text-align: center;
     font-family: 'Arial', sans-serif;
+    background-image: url("../abcd.png");
 }
 image{
-    background-image: url("../abcd.png");
+    
     width: 10vw;
     height: 80vw;
     background-size: cover; /* faz a imagem cobrir todo o elemento */
