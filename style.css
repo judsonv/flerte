@@ -1,6 +1,7 @@
 body {
     text-align: center;
     padding-top: 100px;
+    margin-top: 20px;
     font-family: 'Arial', sans-serif;
     background-image: url("../abcd.png");
     background-size: cover; /* faz a imagem cobrir todo o elemento */
