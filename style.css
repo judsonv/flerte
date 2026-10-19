@@ -3,7 +3,7 @@ body {
     padding-top: 100px;
     margin-top: 20px;
     width: 10vw;
-    height: 100vw;
+    height: 80vw;
     font-family: 'Arial', sans-serif;
     background-image: url("../abcd.png");
     background-size: cover; /* faz a imagem cobrir todo o elemento */
